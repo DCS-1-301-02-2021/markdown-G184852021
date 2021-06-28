@@ -27,7 +27,8 @@
 
 
 
-情報工学科のHPのリンクはこちら   :sparkles:
+情報工学科のHPのリンクはこちら:sparkles:
+
 
 https://feng.takushoku-u.ac.jp/course/cs/
 
