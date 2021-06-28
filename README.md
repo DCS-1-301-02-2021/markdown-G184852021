@@ -8,7 +8,7 @@
 
 * 所在地は八王子キャンパス
 
-* 最寄駅からバスで約１０分  :sparkles:
+* 最寄駅からバスで約１０分  
 
 
 
@@ -27,7 +27,8 @@
 
 
 
-情報工学科のHPのリンクはこちら
+情報工学科のHPのリンクはこちら:sparkles:
+
 https://feng.takushoku-u.ac.jp/course/cs/
 
 
