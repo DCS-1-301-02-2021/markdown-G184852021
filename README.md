@@ -27,10 +27,7 @@
 
 
 
-情報工学科のHPのリンクはこちら
-
-
-https://feng.takushoku-u.ac.jp/course/cs/
+[情報工学科のHPのリンクはこちら](https://feng.takushoku-u.ac.jp/course/cs/)
 
 
 
