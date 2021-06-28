@@ -8,7 +8,7 @@
 * 所在地は八王子キャンパス
 * 最寄駅からバスで約１０分
 
-:sparkles::sparkles:
+:sparkles: :sparkles:
 
 
 ##### 情報工学科で出来ること
