@@ -4,7 +4,7 @@
 ![logo](logo.png)
 
 # __情報工学科__
-* 工学部
+* 工学部:sparkles:
 
 * 所在地は八王子キャンパス
 
@@ -27,7 +27,7 @@
 
 
 
-情報工学科のHPのリンクはこちら:sparkles:
+情報工学科のHPのリンクはこちら
 
 
 https://feng.takushoku-u.ac.jp/course/cs/
